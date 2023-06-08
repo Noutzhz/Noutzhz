@@ -1,3 +1,11 @@
-Hello I am Noutz!
+# Hello I am Noutz!
 ___________________________________________________________________________________________________________________________________________
+
+# Youtube
+[![YouTube](https://i.im.ge/2023/06/08/hBSCFJ.1384060.png)](https://www.youtube.com/@NoutzChill/)
+
+
+
+# Other Redes
+http://bit.ly/3HAmTFc
 
