@@ -54,9 +54,9 @@ const anmol = {
  > 
 > 🚫 Não procurando emprego
  > 
-> 📜 21 Repositórios públicos 
+> 📜 +31 Repositórios públicos 
  > 
-> 🔑 23 Repositórios privados 
+> 🔑 +23 Repositórios privados 
  > 
 **Eu sou um madrugador 🐤** 
 
